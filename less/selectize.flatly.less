@@ -1,0 +1,14 @@
+@import "bootswatch/flatly/variables.less";
+@import "bootstrap/mixins.less";
+@import "selectize.bootstrap3.less";
+
+.selectize-input {
+	border-width: 2px;
+	.box-shadow(none);
+
+	&.focus {
+		border-color: @input-border-focus;
+		outline: 0;
+		.box-shadow(none);
+	}
+}

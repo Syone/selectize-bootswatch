@@ -1,0 +1,13 @@
+@import "bootswatch/darkly/variables.less";
+@import "bootstrap/mixins.less";
+@import "selectize/selectize.bootstrap3.less";
+
+.selectize-input {
+	color: @input-color;
+	border: 2px hidden transparent;
+	.box-shadow(none);
+
+	&.focus {
+		.box-shadow(none);
+	}
+}
