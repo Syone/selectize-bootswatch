@@ -4,8 +4,6 @@ Bootswatch skins for selectize
 Provides CSS files ready to use for [selectize.js](http://selectize.github.io/selectize.js/) (v0.12.2) with [Bootswatch](https://bootswatch.com/) (v3.3.6) themes.
 
 # Usage
-## Selectize – Usage
-
 ```html
 <!-- Include Bootstrap & Bootswatch as usual -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
