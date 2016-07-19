@@ -26,3 +26,6 @@ $(function() {
 
 # Demo
 * [Cosmo](http://codepen.io/anon/pen/zBRaJQ?editors=1010)
+* [Flatly](http://codepen.io/anon/pen/yJvqpB?editors=1010)
+* [Lumen](http://codepen.io/anon/pen/BzYPJq?editors=1010)
+* [Cyborg](http://codepen.io/anon/pen/GqQBQd?editors=1010)
