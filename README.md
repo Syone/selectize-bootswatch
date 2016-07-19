@@ -6,6 +6,7 @@ Provides CSS files ready to use for [selectize.js](http://selectize.github.io/se
 # Usage
 ```html
 <!-- Include Bootstrap & Bootswatch as usual -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/cosmo/bootstrap.min.css" rel="stylesheet" />
 
