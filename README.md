@@ -23,3 +23,6 @@ $(function() {
 });
 </script>
 ```
+
+# Demo
+* [Cosmo](http://codepen.io/anon/pen/zBRaJQ?editors=1010)
