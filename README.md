@@ -24,6 +24,9 @@ $(function() {
 </script>
 ```
 
+# CDN
+Selectize-bootswatch CSS are hosted on [jsDelivr](https://www.jsdelivr.com/projects/selectize-bootswatch)
+
 # Demo
 * [Cosmo](http://codepen.io/anon/pen/zBRaJQ?editors=1010)
 * [Flatly](http://codepen.io/anon/pen/yJvqpB?editors=1010)
