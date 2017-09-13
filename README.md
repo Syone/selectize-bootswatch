@@ -14,7 +14,7 @@ Provides CSS files ready to use for [selectize.js](http://selectize.github.io/se
 <script src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.2/js/standalone/selectize.min.js"></script>
 
 <!-- Include a Bootswatch-selectize css instead, choose one in the css folder corresponding to your selected bootswatch theme -->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/selectize-bootswatch/1.0/selectize.cosmo.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Syone/selectize-bootswatch@1.0/css/selectize.cosmo.css" />
 
 <!-- Create your selectize component as usual -->
 <script>
